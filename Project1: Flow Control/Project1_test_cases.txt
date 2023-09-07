@@ -1,0 +1,23 @@
+
+				         INPUT 			 EXPECTED OUTPUT
+	
+	==> These are valid inputs cases and expected outputs.
+	+ Test case 1 : 		1000 18 50 		=> 24 months and $197.83
+	+ Test case 2 : 		2000 12 80 		=> 29 months and $312.98
+	+ Test case 3 : 		1000 12 11 		=> 241 months and $1650.85
+	+ Test case 4 : 		1000 12 1010 		=> 1 month and $10
+	+ Test case 5 : 		1000 50 2000 		=> 1 month and $41.67
+	+ Test case 6 : 		1000 0 10 		=> 100 month and $0
+
+	=> The program needs to show warning for the following test cases:
+	+ Test case 7 (Insufficient payment):	2000 50 80
+	+ Test case 8 (Insufficient payment):	1000 12 10
+	+ Test case 9 (Invalid loan):		-1000
+	+ Test case 10 (Invalid loan):		abc
+	+ Test case 11 (Invalid interest rate):	1000 -18
+	+ Test case 12 (Invalid interest rate):	1000 abc
+	+ Test case 13 (Invalid payment):	1000 18 -50
+	+ Test case 14 (Invalid payment):	1000 18 abc
+
+
+
