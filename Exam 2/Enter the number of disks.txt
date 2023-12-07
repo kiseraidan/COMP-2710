@@ -1,0 +1,9 @@
+Enter the number of disks:3
+Move Disk 1 from A to C
+Move Disk 2 from A to B
+Move Disk 1 from C to B
+Move Disk 3 from A to C
+Move Disk 1 from B to A
+Move Disk 2 from B to C
+Move Disk 1 from A to C
+The elapsed time is 0 seconds for moving 3 disks
